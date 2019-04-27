@@ -1,0 +1,32 @@
+run:
+1.	0. Gép típusa: ATAT	 	 Energiaszintje: 108	Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 165	Tűzereje: 12
+
+2.	0. Gép típusa: ATAT	 	 Energiaszintje: 96		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 150	Tűzereje: 12
+
+3.	0. Gép típusa: ATAT	 	 Energiaszintje: 84		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 135	Tűzereje: 12
+
+4.	0. Gép típusa: ATAT	 	 Energiaszintje: 72		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 120	Tűzereje: 12
+
+5.	0. Gép típusa: ATAT	 	 Energiaszintje: 60		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 105	Tűzereje: 12
+
+6.	0. Gép típusa: ATAT	 	 Energiaszintje: 48		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 90		Tűzereje: 12
+
+7.	0. Gép típusa: ATAT	 	 Energiaszintje: 36		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 75		Tűzereje: 12
+
+8.	0. Gép típusa: ATAT	 	 Energiaszintje: 24		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 60		Tűzereje: 12
+
+9.	0. Gép típusa: ATAT	 	 Energiaszintje: 12		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 45		Tűzereje: 12
+
+10.	0. Gép típusa: ATAT	     Energiaszintje: 0		Tűzereje: 15
+	0. Gép típusa: PTower	 Energiaszintje: 30		Tűzereje: 12
+
+A Lázadók nyertek
